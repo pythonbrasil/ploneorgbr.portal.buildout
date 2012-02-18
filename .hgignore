@@ -1,0 +1,7 @@
+syntax: glob
+
+*~
+parts
+var
+bin
+develop-eggs
